@@ -1,0 +1,24 @@
+{
+  "name": "express-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nt-backend-nodejs/express-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/nt-backend-nodejs/express-backend/issues"
+  },
+  "homepage": "https://github.com/nt-backend-nodejs/express-backend#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
